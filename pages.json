@@ -1,0 +1,20 @@
+{
+    "d9cdddfdee20e79a137448fd2cfa13b8": {
+        "page_script_hash": "d9cdddfdee20e79a137448fd2cfa13b8",
+        "page_name": "login",
+        "icon": "",
+        "script_path": "D:\\LOGIN (new1)\\login.py"
+    },
+    "5dd85d22cbd8eb352f59295029e28649": {
+        "page_script_hash": "5dd85d22cbd8eb352f59295029e28649",
+        "page_name": "home",
+        "icon": "",
+        "script_path": "D:\\LOGIN (new1)\\pages\\home.py"
+    },
+    "6d8392ec244817c9c43cfd4ca62d8c52": {
+        "page_script_hash": "6d8392ec244817c9c43cfd4ca62d8c52",
+        "page_name": "signup",
+        "icon": "",
+        "script_path": "D:\\LOGIN (new1)\\pages\\signup.py"
+    }
+}
